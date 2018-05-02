@@ -1,0 +1,7 @@
+.idea/**
+*.iml
+out
+gen
+!/.idea/runConfigurations/org.hofi.WebSocketClient.xml
+!/.idea/runConfigurations/WebSocketServer.xml
+!/.idea/runConfigurations/
