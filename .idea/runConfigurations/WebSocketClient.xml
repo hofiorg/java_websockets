@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="WebSocketClient" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="org.hofi.WebSocketClient" />
+    <module name="java_websockets" />
+    <method />
+  </configuration>
+</component>

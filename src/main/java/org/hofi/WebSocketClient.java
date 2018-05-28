@@ -24,7 +24,7 @@ class WebSocketClient {
   private void connect() throws URISyntaxException, ExecutionException, InterruptedException, IOException {
     lock.lock();
     try {
-      URI endpointUrl = new URI("ws://10.2.2.14:5120/endpoint");
+      URI endpointUrl = new URI("ws://localhost:8080/endpoint");
       WebSocketHttpHeaders headers = new WebSocketHttpHeaders();
       AbstractWebSocketHandler result = new AbstractWebSocketHandler() {
         protected void handleTextMessage(WebSocketSession session, TextMessage message) {
