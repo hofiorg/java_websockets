@@ -1,1 +1,2 @@
-# java_websockets [![Build Status](https://travis-ci.org/hofiorg/java_websockets.svg?branch=master)](https://travis-ci.org/hofiorg/java_websockets)
+# java_websockets ![maven workflow](https://github.com/hofiorg/java_websockets/actions/workflows/maven.yml/badge.svg)
+
